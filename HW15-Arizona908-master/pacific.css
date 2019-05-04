@@ -1,6 +1,10 @@
 /*<!-- Project Name: Pacific Resort -->
 <!-- Author: lily hauge -->
-<!-- Date Last Modified: 4.5.19 -->*/
+<!-- Date Last Modified: 4.5.19 -->
+
+Incorrect filename!
+wrapper must be an id!
+*/
 
 body
 {
@@ -68,7 +72,7 @@ footer
   padding: 1em;
 }
 
-.wrapper
+#wrapper
 {
   background-color: #FFFFFF;
   min-width: 700px;
